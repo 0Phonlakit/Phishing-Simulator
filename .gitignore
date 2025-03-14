@@ -1,0 +1,6 @@
+db.sqlite3
+
+phishing_simulator/__pycache__
+phishing_app/__pycache__
+
+venv
