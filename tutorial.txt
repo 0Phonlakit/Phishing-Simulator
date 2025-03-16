@@ -13,6 +13,12 @@ python -m venv venv
 venv\Scripts\activate
 
 
+## Create SQLite3 Database
+
+python manage.py makemigrations
+python manage.py migrate
+
+
 ## Start fake website
 
 python manage.py runserver
